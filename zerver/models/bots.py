@@ -11,7 +11,7 @@ SLACK_INTERFACE = "SlackOutgoingWebhookService"
 
 
 # A Service corresponds to either an outgoing webhook bot or an embedded bot.
-# The type of Service is determined by the bot_type field of the referenced
+# The type of Service is determined by the bot_type field of the references
 # UserProfile.
 #
 # If the Service is an outgoing webhook bot:
